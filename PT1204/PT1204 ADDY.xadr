@@ -1,0 +1,44 @@
+[Crestron_Toolbox_Address_Book]
+
+[Entries]
+This .xadr file was created using Toolbox v2.41 or later.=:slot 01
+It is not compatible with this version of Toolbox.=:slot 02
+Please open a .adr Address Book to continue.=:slot 03
+
+[AddressBookInfo]
+Schema=2.0
+Version=1.0
+DefaultEntry=
+
+[ComSpecs]
+USB=usb
+CP3N=auto 192.168.1.250
+CENPOE=auto 192.168.1.250;pat auto,10.0.1.250,41795
+DM=auto 192.168.1.250;pat auto,DM-MD16x16-00107F4A851A,41795
+SONNEX=auto 192.168.1.250;pat auto,SWAMP-00107F497CE1,41795
+EXGATEWAY OFFICE=auto 192.168.1.250;pat auto,RFGWEX-00-10-7f-49-54-0f,41795
+EXKITCHEN=auto 192.168.1.250;pat auto,RFGWEX-00-10-7f-49-54-3e,41795
+232=rs232 7,0,n,8,1,n,y
+EXMASTER=auto 192.168.1.250;pat auto,RFGWEX-00-10-7f-49-54-1e,41795
+TSW1050 MAIN=auto 192.168.1.250;pat auto,TSW-10-7F48AF6A,41795
+TSTAT=EXGATEWAY OFFICE:meshnet 64
+TSW1050 KITCHEN=auto 192.168.1.250;pat auto,TSW-10-7F48B4D0,41795
+EXGUEST=auto 192.168.1.250;pat auto,RFGWEX-00-10-7f-40-B1-6F,41795
+CP3 FARSIDE=auto 24.120.40.48
+
+[Notes]
+USB=
+CP3N=
+CENPOE=
+DM=
+SONNEX=
+EXGATEWAY OFFICE=
+EXKITCHEN=
+232=
+EXMASTER=
+TSW1050 MAIN=
+TSTAT=
+TSW1050 KITCHEN=
+EXGUEST=
+CP3 FARSIDE=
+

@@ -1,0 +1,9 @@
+<Device Model="CP3N">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DM-MD16x16" DeviceId="20"/>
+      <Device Model="SWAMP" DeviceId="21" Name="SWAMP-24x8 (Ethernet)."/>
+      <Device Model="Autonomic MMS-5A" DeviceId="40"/>
+      <Device Model="Autonomic MMS-5A" DeviceId="41"/>
+   </Network>
+</Device>
